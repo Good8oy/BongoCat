@@ -8,6 +8,7 @@ import About from './components/about/index.vue'
 import Cat from './components/cat/index.vue'
 import General from './components/general/index.vue'
 import Model from './components/model/index.vue'
+import Pomodoro from './components/pomodoro/index.vue'
 import Shortcut from './components/shortcut/index.vue'
 
 import UpdateApp from '@/components/update-app/index.vue'
@@ -41,6 +42,11 @@ const menus = computed(() => [
     label: t('pages.preference.general.title'),
     icon: 'i-solar:settings-minimalistic-bold',
     component: General,
+  },
+  {
+    label: t('pages.preference.pomodoro.title'),
+    icon: 'i-solar:clock-circle-bold',
+    component: Pomodoro,
   },
   {
     label: t('pages.preference.model.title'),

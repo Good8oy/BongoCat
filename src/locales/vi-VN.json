@@ -63,6 +63,21 @@
           "openLater": "Mở sau"
         }
       },
+      "pomodoro": {
+        "title": "Pomodoro",
+        "focus": "Tập trung",
+        "break": "Nghỉ giải lao",
+        "start": "Bắt đầu",
+        "pause": "Tạm dừng",
+        "reset": "Đặt lại",
+        "nextHint": "Bộ hẹn giờ sẽ nhắc bạn khi kết thúc. Bắt đầu giai đoạn tiếp theo khi sẵn sàng.",
+        "durationTitle": "Thời lượng",
+        "focusDuration": "Thời gian tập trung",
+        "breakDuration": "Thời gian nghỉ",
+        "minutes": "phút",
+        "focusComplete": "Đã hoàn thành phiên tập trung. Đến giờ nghỉ.",
+        "breakComplete": "Đã hết giờ nghỉ. Sẵn sàng tập trung."
+      },
       "model": {
         "title": "Mô hình",
         "labels": {

@@ -63,6 +63,21 @@
           "openLater": "Open Later"
         }
       },
+      "pomodoro": {
+        "title": "Pomodoro",
+        "focus": "Focus",
+        "break": "Break",
+        "start": "Start",
+        "pause": "Pause",
+        "reset": "Reset",
+        "nextHint": "The timer will notify you when it ends. Start the next phase when ready.",
+        "durationTitle": "Durations",
+        "focusDuration": "Focus time",
+        "breakDuration": "Break time",
+        "minutes": "min",
+        "focusComplete": "Focus session complete. Time for a break.",
+        "breakComplete": "Break complete. Ready to focus."
+      },
       "model": {
         "title": "Model",
         "labels": {
