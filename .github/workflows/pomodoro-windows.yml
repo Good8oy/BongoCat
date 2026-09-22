@@ -1,7 +1,9 @@
 name: Build Pomodoro for Windows
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - codex/pomodoro
 
 jobs:
   build:
